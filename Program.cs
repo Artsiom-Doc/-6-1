@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int n = 4;
+int n = -3;
 
 if(n % 2 == 0)
 {
